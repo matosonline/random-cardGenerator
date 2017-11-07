@@ -1,0 +1,25 @@
+body {
+    background-color: green;
+}
+#card {
+    height: 375px;
+    width: 250px;
+    background-color: white;
+    border-radius: 10px;
+    margin: auto;
+}
+#topSuit {
+    padding: 0 10px;
+    font-size: 70px;
+}
+#value {
+  font-family: serif;
+  font-size: 800%;
+  text-align: center;
+  margin: 33px 0;
+}
+#btmSuit {
+    padding: 0 10px;
+    font-size: 70px;
+    transform: rotate(180deg);
+}
